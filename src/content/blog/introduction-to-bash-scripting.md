@@ -1,7 +1,7 @@
 ---
 author: Jobayer Hossain
 pubDatetime: 2022-09-23T15:22:00Z
-modDatetime: 2023-12-21T09:12:47.400Z
+modDatetime: 2023-07-01T09:12:47.400Z
 title: Introduction to Bash Scripting
 slug: introduction-to-bash-scripting
 featured: true

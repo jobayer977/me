@@ -1,7 +1,7 @@
 ---
 author: Jobayer Hossain
 pubDatetime: 2022-09-23T15:22:00Z
-modDatetime: 2023-12-21T09:12:47.400Z
+modDatetime: 2023-09-07T09:12:47.400Z
 title: Different Programing Paradigm
 slug: different-programing-paradigm
 featured: true
